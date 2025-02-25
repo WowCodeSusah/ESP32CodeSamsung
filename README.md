@@ -1,1 +1,1 @@
-# ESP32CodeSamsung
+# ESP32 and API Code for Samsung Innovation
